@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Edition
 
 Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
@@ -64,3 +65,7 @@ Edition is already optimised for adding, updating and removing documentation pag
 ### Navigation
 
 * Change `site.show_full_navigation` to control all or only the current navigation group being open.
+=======
+# liusanchuan.github.io
+教程
+>>>>>>> f2924b6e66916bd4a6af80f41dd04fcb9e010d2d
