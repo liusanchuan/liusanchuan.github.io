@@ -1,5 +1,5 @@
 ---
-layout: null
+elayout: null
 sitemap: false
 ---
 User-agent: *

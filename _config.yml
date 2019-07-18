@@ -8,7 +8,7 @@ google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /logo_shpe.png
+logo: ./logo_shpe.png
 description: 教学科研机器人.
 author:  
   name: 小川
